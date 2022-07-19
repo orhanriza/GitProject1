@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("Made few commits");
         System.out.println("work1 is ready");
         System.out.println("i'll do this");
+        System.out.println("it's a new day");
     }
 }
